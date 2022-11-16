@@ -6,14 +6,47 @@ body{
   place-items: center;
 }
 
+.card-groups,
 .card-group,
 .card {
   aspect-ratio: 5/7;
 }
-
+.card-groups,
 .card-group,
 .big-card{
   width:30vmin;
+}
+
+.card-group{
+  position: absolute;
+}
+
+.card-group[data-status="unknown"]{
+  transform: scale(0);
+}
+
+.card-swiper-buttons{
+  margin-top: 8vmin;
+  display:flex;
+  justify-content: space-around;
+  padding: 0vmin 4vmin;
+}
+
+
+.card-swiper-buttons > button{
+  font-size: 2.5vmin;
+  color:white;
+  border: 0.4vmin solid rgb(200,200,200);
+  border-radius:10%;
+  background-color: transparent;
+  height:7vmin;
+  width:10vmin;
+  cursor: pointer;
+}
+
+#love-button{
+  color:rgb(243, 33, 33);
+  border-color: rgb(255, 0, 0);
 }
 
 .card {
