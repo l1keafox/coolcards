@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/coolcards/static/css/main.c36b9fad.css",
-    "main.js": "/coolcards/static/js/main.29340cea.js",
+    "main.css": "/coolcards/static/css/main.430e2604.css",
+    "main.js": "/coolcards/static/js/main.1e4de045.js",
     "static/js/787.85f119f5.chunk.js": "/coolcards/static/js/787.85f119f5.chunk.js",
     "index.html": "/coolcards/index.html",
-    "main.c36b9fad.css.map": "/coolcards/static/css/main.c36b9fad.css.map",
-    "main.29340cea.js.map": "/coolcards/static/js/main.29340cea.js.map",
+    "main.430e2604.css.map": "/coolcards/static/css/main.430e2604.css.map",
+    "main.1e4de045.js.map": "/coolcards/static/js/main.1e4de045.js.map",
     "787.85f119f5.chunk.js.map": "/coolcards/static/js/787.85f119f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c36b9fad.css",
-    "static/js/main.29340cea.js"
+    "static/css/main.430e2604.css",
+    "static/js/main.1e4de045.js"
   ]
 }
